@@ -5,7 +5,7 @@ the *Agentic AI & RAG Engineering* programme.
 
 ## Corpus
 
-Tamil Nadu Budget : 2025-2026 - Tamil Nadu Budget is the state government's annual financial statement that outlines its estimated revenue and planned expenditure for the upcoming fiscal year.
+Tamil Nadu Revised Budget : 2026-2027 - Tamil Nadu Budget is the state government's annual financial statement that outlines its estimated revenue and planned expenditure for the upcoming fiscal year.
 
 ## Structure
 
